@@ -35,6 +35,7 @@ You can change default JDK version by replacing directory `jre` in dbeaver insta
 * [WIKI](https://github.com/dbeaver/dbeaver/wiki)
 * [Issue tracker](https://github.com/dbeaver/dbeaver/issues)
 * [Building from sources](https://github.com/dbeaver/dbeaver/wiki/Build-from-sources)
+* exportFormatComboBox.addItem("GeoJSON");
 
 ## Architecture
 
